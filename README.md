@@ -1,2 +1,2 @@
 # alailabs
-alai-labs
+alailabs
