@@ -1,2 +1,2 @@
-# alai-labs-27-12-2021
+# alailabs
 alai-labs
